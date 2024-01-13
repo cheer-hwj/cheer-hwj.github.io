@@ -11,3 +11,6 @@
   
 * [MarkdownEditor](/markdown-editor/dist/)
   <br>一个简单基础的Markdown在线编辑器 [code](https://github.com/cheer-hwj/markdown-editor)
+
+* [KindleNotes](/kindle_notes/build/)
+  <br>一个简单基础的Markdown在线编辑器 [code](https://github.com/cheer-hwj/kindle_notes)
